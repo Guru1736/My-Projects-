@@ -11,7 +11,7 @@ There are all the projects  have made by me
 ![Screenshot_20221004-145220_WhatsAppClone](https://user-images.githubusercontent.com/88821760/193785367-8a2bc36a-ed01-40f6-a725-b1faeccc8643.jpg)
 
 
-2. My Pithos { https://www.mediafire.com/download/pzty9d3gp5n77w6 }
+2. My Pithos {https://www.mediafire.com/file/t2e1jllntzirjy3/app-debug.apk/file}
 
 ![Screenshot_20221004-150040_MyPhitos](https://user-images.githubusercontent.com/88821760/193787134-bca0a1d6-207b-44e1-a737-df6a9c94e693.jpg)
 ![Screenshot_20221004-150049_MyPhitos](https://user-images.githubusercontent.com/88821760/193787145-c4ae9e2b-c046-4b63-a267-08edb16ebdb7.jpg)
